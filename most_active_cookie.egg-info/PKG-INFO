@@ -1,7 +1,0 @@
-Metadata-Version: 2.4
-Name: most-active-cookie
-Version: 1.0.0
-Summary: Find the most active cookie(s) in a log file for a given UTC date.
-Requires-Python: >=3.10
-Provides-Extra: test
-Requires-Dist: pytest>=7.0; extra == "test"
